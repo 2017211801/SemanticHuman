@@ -3,7 +3,7 @@ Xiaokun Sun, Qiao Feng, Xiongzheng Li, Jinsong Zhang, Yu-Kun Lai, Jingyu Yang, K
 
 # Overview
 <p align="center">
-<img src=/visual_summary.jpg />
+<img src=/img1.png />
 </p>
 
 # Abstract
@@ -11,3 +11,14 @@ Xiaokun Sun, Qiao Feng, Xiongzheng Li, Jinsong Zhang, Yu-Kun Lai, Jingyu Yang, K
 
 # Others
 Coming soon
+
+## Citation
+If you find this code useful for your research, please use the following BibTeX entry.
+```
+@inproceedings{SemanticHuman,
+  author = {Xiaokun Sun, Qiao Feng, Xiongzheng Li, Jinsong Zhang, Yu-Kun Lai, Jingyu Yang, Kun Li},
+  title = {Learning Semantic-Aware Disentangled Representation for Flexible 3D Human Body Editing},
+  booktitle = {CVPR},
+  year={2023},
+}
+```
